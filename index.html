@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Quiz App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="quiz-app">
+    <div class="quiz-info">
+      <div class="category">Category: <span>Array Methods</span></div>
+      <div class="count">Questions Count: <span></span></div>
+    </div>
+
+    <div class="quiz-area">
+      <h2>What does the forEach method do in JavaScript arrays?</h2>
+    </div>
+
+    <div class="answers-area">
+
+      <div class="answer">
+        <input type="radio" id="one" name="questions" checked>
+        <label for="one">Executes a provided function once for each array element.</label>
+      </div>
+
+      <div class="answer">
+        <input type="radio" id="one" name="questions">
+        <label for="two">Adds a new item to the end of the array.</label>
+      </div>
+
+      <div class="answer">
+        <input type="radio" id="one" name="questions">
+        <label for="three">Removes the first element from the array.</label>
+      </div>
+
+      <div class="answer">
+        <input type="radio" id="one" name="questions">
+        <label for="four">Sorts the elements of the array in place.</label>
+      </div>
+
+    </div>
+    <button class="submit-button">Submit Answer</button>
+    <div class="bullets">
+      <div class="spans">
+
+      </div>
+      <div class="countDown">
+        <span class="minutes">02</span> : 
+        <span class="Seconds">45</span>
+      </div>
+    </div>
+    <div class="results">
+      <span class="perfect">Perfect</span> Your Asnswered 10 from 14
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,175 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does the forEach method do in JavaScript arrays?",
+      "options": [
+        "Executes a provided function once for each array element.",
+        "Adds a new item to the end of the array.",
+        "Removes the first element from the array.",
+        "Sorts the elements of the array in place."
+      ],
+      "answer": "Executes a provided function once for each array element.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "What does the map method do in JavaScript arrays?",
+      "options": [
+        "Creates a new array with the results of calling a provided function on every element in the calling array.",
+        "Adds a new item to the end of the array.",
+        "Removes the first element from the array.",
+        "Sorts the elements of the array in place."
+      ],
+      "answer": "Creates a new array with the results of calling a provided function on every element in the calling array.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "What does the filter method do in JavaScript arrays?",
+      "options": [
+        "Creates a new array with all elements that pass the test implemented by the provided function.",
+        "Adds a new item to the end of the array.",
+        "Removes the first element from the array.",
+        "Sorts the elements of the array in place."
+      ],
+      "answer": "Creates a new array with all elements that pass the test implemented by the provided function.",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "What does the find method do in JavaScript arrays?",
+      "options": [
+        "Returns the first element that satisfies the provided testing function.",
+        "Adds a new item to the end of the array.",
+        "Removes the first element from the array.",
+        "Sorts the elements of the array in place."
+      ],
+      "answer": "Returns the first element that satisfies the provided testing function.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "What does the reduce method do in JavaScript arrays?",
+      "options": [
+        "Executes a provided function once for each array element.",
+        "Reduces the array to a single value by executing a provided function.",
+        "Creates a new array with all elements that pass the test implemented by the provided function.",
+        "Sorts the elements of the array in place."
+      ],
+      "answer": "Reduces the array to a single value by executing a provided function.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "question": "What does the some method do in JavaScript arrays?",
+      "options": [
+        "Checks if at least one element in the array passes the test implemented by the provided function.",
+        "Adds a new item to the end of the array.",
+        "Removes the first element from the array.",
+        "Sorts the elements of the array in place."
+      ],
+      "answer": "Checks if at least one element in the array passes the test implemented by the provided function.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "What does the every method do in JavaScript arrays?",
+      "options": [
+        "Checks if all elements in the array pass the test implemented by the provided function.",
+        "Adds a new item to the end of the array.",
+        "Removes the first element from the array.",
+        "Sorts the elements of the array in place."
+      ],
+      "answer": "Checks if all elements in the array pass the test implemented by the provided function.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 8,
+      "question": "What does the includes method do in JavaScript arrays?",
+      "options": [
+        "Determines whether an array includes a certain value among its entries.",
+        "Adds a new item to the end of the array.",
+        "Removes the first element from the array.",
+        "Sorts the elements of the array in place."
+      ],
+      "answer": "Determines whether an array includes a certain value among its entries.",
+      "difficulty": "hard"
+    },
+
+    {
+
+          "id": 9,
+          "question": "What does the slice method do in JavaScript arrays?",
+          "options": [
+            "Returns the selected elements in an array, as a new array object.",
+            "Adds a new item to the end of the array.",
+            "Removes the first element from the array.",
+            "Sorts the elements of the array in place."
+          ],
+          "answer": "Returns the selected elements in an array, as a new array object.",
+          "difficulty": "medium"
+        },
+        {
+          "id": 10,
+          "question": "What does the splice method do in JavaScript arrays?",
+          "options": [
+            "Changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.",
+            "Adds a new item to the end of the array.",
+            "Removes the first element from the array.",
+            "Sorts the elements of the array in place."
+          ],
+          "answer": "Changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.",
+          "difficulty": "medium"
+        },
+        {
+          "id": 11,
+          "question": "What does the flat method do in JavaScript arrays?",
+          "options": [
+            "Creates a new array with all sub-array elements concatenated into it recursively up to the specified depth.",
+            "Adds a new item to the end of the array.",
+            "Removes the first element from the array.",
+            "Sorts the elements of the array in place."
+          ],
+          "answer": "Creates a new array with all sub-array elements concatenated into it recursively up to the specified depth.",
+          "difficulty": "medium"
+        },
+        {
+          "id": 12,
+          "question": "What does the concat method do in JavaScript arrays?",
+          "options": [
+            "Returns a new array comprised of this array joined with other array(s) and/or value(s).",
+            "Adds a new item to the end of the array.",
+            "Removes the first element from the array.",
+            "Sorts the elements of the array in place."
+          ],
+          "answer": "Returns a new array comprised of this array joined with other array(s) and/or value(s).",
+          "difficulty": "hard"
+        },
+        {
+          "id": 13,
+          "question": "What does the indexOf method do in JavaScript arrays?",
+          "options": [
+            "Returns the first index at which a given element can be found in the array, or -1 if it is not present.",
+            "Adds a new item to the end of the array.",
+            "Removes the first element from the array.",
+            "Sorts the elements of the array in place."
+          ],
+          "answer": "Returns the first index at which a given element can be found in the array, or -1 if it is not present.",
+          "difficulty": "hard"
+        },
+        {
+          "id": 14,
+          "question": "What does the findIndex method do in JavaScript arrays?",
+          "options": [
+            "Returns the index of the first element in the array that satisfies the provided testing function. Otherwise, it returns -1.",
+            "Adds a new item to the end of the array.",
+            "Removes the first element from the array.",
+            "Sorts the elements of the array in place."
+          ],
+          "answer": "Returns the index of the first element in the array that satisfies the provided testing function. Otherwise, it returns -1.",
+          "difficulty": "hard"
+        }
+    
+  ]
+}
