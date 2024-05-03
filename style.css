@@ -90,6 +90,11 @@ body{
 .bullets .spans span.on{
   background-color:#1468f9;
 }
+.results{
+  background-color: #eee;
+  padding: 14px;
+  margin-top: 10px;
+}
 .results span {
   font-weight: bold;
 }
